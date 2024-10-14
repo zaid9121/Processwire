@@ -1,0 +1,222 @@
+{
+    "file": "wire\/modules\/Fieldtype\/FieldtypeRepeater\/config.php",
+    "textdomain": "wire--modules--fieldtype--fieldtyperepeater--config-php",
+    "translations": {
+        "cb2d417d536ac6b6d8668d272b28ca47": {
+            "text": "Repeater-Feld \"%s\" hat in den Einstellungen eine Bedingung \"Pflichtfeld nur wenn\", dies wird in Repeatern nicht unterst\u00fctzt."
+        },
+        "5719e7cb7b73c9e6a4b7f3f49b9fd805": {
+            "text": "Bitte f\u00fcgen sie diesem Repeater Felder aus dem Tab \"Details\" hinzu."
+        },
+        "f41ae5ce37aeed3613288bb8c0cc3489": {
+            "text": "Definieren Sie die von diesem Repeater benutzten Felder. Sie k\u00f6nnen die Felder mittels Drag 'n' Drop in die gew\u00fcnschte Reihenfolge bringen."
+        },
+        "6daa35fd97a645b8e37cae080eab3de9": {
+            "text": "Feld hinzuf\u00fcgen"
+        },
+        "ebfc6d0dd40c27dd753e7e6dfbf18dd2": {
+            "text": "Repeater-Element Label"
+        },
+        "66a81e26ad18214b582553f4d33030f2": {
+            "text": "Feldname eingeben zur Verwendung als Repeater-Label im Seiten-Editor, oder leer lassen f\u00fcr automatische Erstellung."
+        },
+        "699a4d80b29a2b87e8bea7946afebe8e": {
+            "text": "Zur Verwendung von mehreren Feldern, oder zur Festlegung eines eigenen Format-Strings, umschliessen Sie Feldnamen mit {Klammern}."
+        },
+        "c5e90fa5edbe00c619ca4d69c3692627": {
+            "text": "Um jedem Label eine Repeater-Index-Nummer mitzugeben, f\u00fcgen Sie \"#n\" irgendwo in ihrem Format-String hinzu."
+        },
+        "4c95bcccf333bef2208b02fbd212af55": {
+            "text": "Beispiel: #n: {title}"
+        },
+        "d347b63bb97431df68506ea3059be495": {
+            "text": "Label f\u00fcr neu hinzu zuf\u00fcgendes Element"
+        },
+        "db9d65ca0ad208926207fbf99636b1f4": {
+            "text": "W\u00e4hlen Sie das gew\u00fcnschte Label f\u00fcr den \"Neues Element hinzuf\u00fcgen\" Text\/Button, oder leer lassen f\u00fcr den Standard."
+        },
+        "ef9eb3b1c72a3d00e09495aa7ecf195a": {
+            "text": "Sichtbarkeit des Repeater-Element im Editor"
+        },
+        "e420623b25fa348e2155e3e2bdbf5620": {
+            "text": "Repeater-Elemente k\u00f6nnen aus- oder eingeklappt sein (mit einem Klick \u00f6ffnen). Der eingeklappte Modus ist praktischer zum Sortieren und zur \u00dcbersicht \u00fcber alle Elemente."
+        },
+        "c2d450307945339defec74620dd295d2": {
+            "text": "Neue Elemente ausgeklappt, bestehende Elemente eingeklappt (empfohlen f\u00fcr die meisten F\u00e4lle)"
+        },
+        "0905199ed34fceff86e31adf81cbc702": {
+            "text": "Elemente immer ausgeklappt (deaktiviert dynamisches Laden bestehender Elemente)"
+        },
+        "83a9d92f04fe2ce7f34ad4e7070c61aa": {
+            "text": "Elemente immer eingeklappt"
+        },
+        "1c1fc75d282666eeffc288a4d82594ba": {
+            "text": "Dynamisches Laden (AJAX) des Repeater im Editor"
+        },
+        "78385cca5a362b333c60753b2fcf6e40": {
+            "text": "Welche Elemente sollen dynamisch mit AJAX im Seiten-Editor geladen werden? Falls Ihr Repeater ein Feld verwendet, welches sich nicht dynamisch laden l\u00e4sst, kann es notwendig sein, dieses Feature abzuschalten."
+        },
+        "18e57decad6ecfd57b1231426deb7f2d": {
+            "text": "Bestehende und neue Elemente (empfohlen, speziell f\u00fcr Repeater welche VIELE Elemente haben)"
+        },
+        "e8b8b3345ab0076aaef6c21cd7ca5b79": {
+            "text": "Nur neue Elemente (gut f\u00fcr Repeater welche nur WENIGE Elemente haben)"
+        },
+        "d15305d7a4e34e02489c74a5ef542f36": {
+            "text": "Aus"
+        },
+        "65f6a551619120fdc79329b66ab6c1fd": {
+            "text": "L\u00f6sche alte\/ungenutzte Repeater-Elemente?"
+        },
+        "9c539ab2317d7056d5d664b083557796": {
+            "text": "Es gibt **%d** alte\/ungenutzte Repeater-Elemente. Zum l\u00f6schen diese Box markieren."
+        },
+        "8c50c81f9df1bb1d4bc5689f9a6e7204": {
+            "text": "Repeater-Typ"
+        },
+        "cb1f0ec5795fd6ab9a2e980b428cfff5": {
+            "text": "'attached': Der Repeater wird sein Template und seine Eltern-Seite selbst verwalten, ohne dass Sie etwas davon mitbekommen oder dar\u00fcber nachdenken m\u00fcssen."
+        },
+        "e3d6af2ddc6a90779dd75a3f9c753d7f": {
+            "text": "'detached': Sie k\u00f6nnen Template und Eltern-Seite des Repeaters verschieben und ver\u00e4ndern, wie sie es f\u00fcr richtig halten."
+        },
+        "77e23d8e1ff8e93bfc6e188f62e409bd": {
+            "text": "Hinweise: Falls 'detached' gew\u00e4hlt wird, wird ProcessWire Eltern-Seite oder Template nicht l\u00f6schen, falls das Feld gel\u00f6scht wird."
+        },
+        "27dafd7f7794d09bc001fc0acac8e1ad": {
+            "text": "%d alte\/ungenutzte Repeater-Elemente gel\u00f6scht"
+        },
+        "0fe1cc90d79ebfffb11a259cc05d406d": {
+            "text": "Eltern-Seite %s ist jetzt 'detached' und kann verschoben oder ver\u00e4ndert werden."
+        },
+        "678e17a04cd1c42a28cc8a9eff4f60c0": {
+            "text": "Repeater-Felder"
+        },
+        "2db718f06a27de2a35a889b205ef0bb4": {
+            "text": "Ge\u00f6ffnete Repeater-Elemente beibehalten?"
+        },
+        "2878ed508d1b136f7b170f593c0ff00f": {
+            "text": "Ein Repeater-Element wird als alt bezeichnet, wenn es mindestens 3 Tage alt ist und noch nicht bef\u00fcllt oder ver\u00f6ffentlicht wurde."
+        },
+        "fc47b04d62211ce6992143d1e92e2fbe": {
+            "text": "Akkordeon-Modus verwenden?"
+        },
+        "90ed744894b90ce9c561d6a428cad4ee": {
+            "text": "Maximale Anzahl von Elementen"
+        },
+        "528f529d4617eb805a332c782f8666fe": {
+            "text": "Falls Sie die Anzahl der erlaubten Elemente begrenzen wollen, geben Sie hier das Limit ein (0=kein Limit)."
+        },
+        "f504e6acf8424e003e90434b8f4ada08": {
+            "text": "Mindestanzahl von Elementen"
+        },
+        "d167f14d9682362265c133aca323b335": {
+            "text": "Diese Anzahl Elemente sind immer offen und bereit zum Bearbeiten (0=keine Mindestanzahl)"
+        },
+        "d0deefb333b608453cbec94b81a136de": {
+            "text": "Tiefe der Elemente"
+        },
+        "e316c9556c1be5b536576ce4b27d0575": {
+            "text": "Um eine Tiefe von Elementen zu unterst\u00fctzen, hier die maximal erlaubte Tiefe eingeben oder zur Deaktivierung leer lassen."
+        },
+        "ea3a2c41fc47d9150f65147b030a3ad8": {
+            "text": "Beim Bearbeiten eines Repeaters k\u00f6nnen Sie die Tiefe ver\u00e4ndern. Klicken Sie auf den Verschiebe-Pfeil des Repeater-Elements und schieben das Element nach rechts oder links."
+        },
+        "c8a9e54dcabe5cdebed9c5bd1fa334d4": {
+            "text": "Tiefen sind nullbasierend. Dies bedeutet, eine Tiefe von 3 erlaubt Tiefen von 0, 1, 2 und 3."
+        },
+        "8b3964c39c4eb2db458965c40689f5a0": {
+            "text": "Auf die Tiefe zugreifen kann man von einem Repeater-Seiten-Element \u00fcber $item->depth."
+        },
+        "c79558badd020f417f148d0a7751e6e4": {
+            "text": "Feld \"%1$s\" zu \"%2$s\" hinzugef\u00fcgt"
+        },
+        "5222d983bada8088d0a86ac0ff1e5871": {
+            "text": "Feld \"%1$s\" aus \"%2$s\" entfernt"
+        },
+        "adaafad29d53a9d0cd52885adf34e542": {
+            "text": "Repeater Tiefe\/Einr\u00fcckungen"
+        },
+        "b88543bf2626f096ed455b862390b4e3": {
+            "text": "Familienfreundliche Elementtiefe verwenden?"
+        },
+        "9b7bbf35ecde2744bc2b120d7a19e425": {
+            "text": "Diese Einstellung bewirkt, dass der Editor der Verwaltungsseite die Elementtiefe als eine Eltern\/Kind-Beziehung behandelt."
+        },
+        "fc26899013e5130bf0f035bcb6645e36": {
+            "text": "Dies bedeutet, dass das Verschieben\/Sortieren eines Elements auch untergeordnete Elemente einschlie\u00dft."
+        },
+        "239509c1f5621ac1d950faf5de9d9111": {
+            "text": "Au\u00dferdem wird verhindert, dass ein untergeordnetes Element in eine Tiefe gezogen wird, die seine \u00fcbergeordnete Ebene um mehr als 1 \u00fcbersteigt."
+        },
+        "0c5235bde3e119593538bdd38e7d7e9f": {
+            "text": "\"Ja\" empfohlen."
+        },
+        "1037c53410252db4ea92a9851015c46b": {
+            "text": "Einstellungen des Repeater-Editors"
+        },
+        "193b66f657e8f7ca202b160e8e701923": {
+            "text": "Wenn diese Option aktiviert ist, bleiben ge\u00f6ffnete Repeater-Elemente nach dem Speichern oder Neuladen aus dem Seiteneditor ge\u00f6ffnet (es sei denn, der Benutzer schlie\u00dft sie)."
+        },
+        "d0244dd7d1408e009350fb0bef887af2": {
+            "text": "Wenn diese Funktion aktiviert ist, kann jeweils nur ein Repeater-Element ge\u00f6ffnet sein."
+        },
+        "aefc9b4c2d25085021b0a1df54aeff00": {
+            "text": "Wann sollen die Steuerelemente\/Aktionen des Repeater-Elements angezeigt werden"
+        },
+        "68eec46437c384d8dad18d5464ebc35c": {
+            "text": "Immer"
+        },
+        "eee0168be69b854c20621fc6f01cc3fc": {
+            "text": "Beim Dar\u00fcberfahren (Hover)"
+        },
+        "6799fc53119a06c09eecac05d013dbf3": {
+            "text": "Mit der \"Dar\u00fcberfahren\"-Option kann die Oberfl\u00e4che \u00fcbersichtlicher gestaltet werden, indem die Aktionen\/Steuerelemente f\u00fcr Repeater (Klonen, Einf\u00fcgen, L\u00f6schen usw.) nur dann angezeigt werden, wenn der Mauszeiger \u00fcber dem Elementkopf steht."
+        },
+        "9e6025a2fc5d0a32028e42373c622d66": {
+            "text": "Beachten Sie, dass Bedienelemente f\u00fcr Touch-Ger\u00e4te unabh\u00e4ngig von dieser Einstellung immer angezeigt werden."
+        },
+        "ee6e6bb07faa02ed6526f941bc76b535": {
+            "text": "Speicherung von Repeatern"
+        },
+        "a9bc2694fa474ffcd7962d6f71a90f08": {
+            "text": "Weniger Seiten f\u00fcr die Speicherung verwenden?"
+        },
+        "4f0061e295e09ef19a1f549c23b04d0c": {
+            "text": "Wenn diese Option aktiviert ist, werden \u00fcbergeordnete Repeater-Seiten erst dann erstellt, wenn mindestens ein untergeordnetes Repeater-Element vorhanden ist."
+        },
+        "80bb7f5b0c8adda2dbafd0c186d3d162": {
+            "text": "Au\u00dferdem werden Elternseiten von Repeatern, die keine Repeater-Elemente enthalten, gegebenenfalls entfernt."
+        },
+        "ea27ba365637d101a399ee5ee91c95b3": {
+            "text": "Derzeit eine experimentelle Option zum Testen (lazyParents), wird aber sp\u00e4ter zum Standard."
+        },
+        "d99d7ccd3f9f6604af4c37a3368dcac3": {
+            "text": "%d unn\u00f6tige Seiten l\u00f6schen?"
+        },
+        "fe38bd0bebd8cb2322a5fbced275bcc5": {
+            "text": "Ich habe die folgenden \u00fcberfl\u00fcssigen Seiten gefunden:"
+        },
+        "847ec015263f8b4dc8f6065f6b7c3909": {
+            "text": "%d unn\u00f6tige Repeater-Eltern gefunden, die entweder 0 Repeater-Elemente oder keine eigene Seite hatten."
+        },
+        "07077b028489c0f29f7433928bb27c32": {
+            "text": "F\u00fchren Sie vor Massenl\u00f6schungen immer ein Backup durch."
+        },
+        "96508e17d64d763df5bc4f802b25e99b": {
+            "text": "%d unn\u00f6tige Repeater-Elternseiten gefunden"
+        },
+        "8e281790c58e48326e41a303674aab12": {
+            "text": "Keine unn\u00f6tigen Seiten gefunden"
+        },
+        "57939466ad1ae6358cadab32c9b04c15": {
+            "text": "Maximale Anzahl von %d Elementen pro Anfrage erreicht, Sie sollten den Vorgang wiederholen."
+        },
+        "88574909be3f083f32ba1fa6a0e4dcf1": {
+            "text": "%d unn\u00f6tige Seiten gel\u00f6scht"
+        },
+        "421b560a931ce0e4ec1b8018d0205b8e": {
+            "text": "Unn\u00f6tige Seiten finden und optional l\u00f6schen?"
+        }
+    }
+}
